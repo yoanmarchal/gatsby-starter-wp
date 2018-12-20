@@ -1,5 +1,7 @@
 # Gatsby v2 WordPress Starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yoanmarchal/gatsby-starter-wp.svg)](https://greenkeeper.io/)
+
 **NOTE:** This is the Gatsby v2 WordPress starter. It is a work in progress.
 
 This starter is forked from the
